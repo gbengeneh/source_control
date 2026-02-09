@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+div{
+    color: darkblue;
+    font-size: 24px;
+    text-align: center;
+}
+p{
+    color: darkgreen;
+    font-size: 18px;
+    margin: 20px;
+}
